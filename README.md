@@ -1,5 +1,4 @@
 # whosbdaytoo
+Birthday Reminder Project
 
-Birthday Reminder App
-
-A reminder app for letting others know about Ploni's birthday.
+In Version 1.1 we have switched to PHP! Using the AMPP server.
